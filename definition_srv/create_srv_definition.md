@@ -189,9 +189,9 @@ if __name__ == '__main__':
     
 3. **결과 확인**
     
-    ![srv_definition00.png](../../images/srv_definition00.png)
+    ![srv_definition00.png](../images/srv_definition00.png)
     
-    ![srv_definition01.png](../../images/srv_definition01.png)
+    ![srv_definition01.png](../images/srv_definition01.png)
 
 <br><br>
 
@@ -273,7 +273,7 @@ if __name__ == '__main__':
 
 1. **결과 확인하기**
 
-    <img src="../../images/srv_definition02.png" alt="srv definition02" width="400">
+    <img src="../images/srv_definition02.png" alt="srv definition02" width="400">
 
 <br><br>
 
@@ -341,7 +341,7 @@ ros에서 python 코드를 테스트하면 일일이 빌드하면서 진행해�
 
     원의 개수를 10으로 하고 반지름을 3으로 했을 때 좌표 찍어보면:
     
-    <img src="../../images/srv_definition03.png" alt="srv definition03" width="400">
+    <img src="../images/srv_definition03.png" alt="srv definition03" width="400">
 <br>
 
 5. **함수로 빼주기**<br>
@@ -448,5 +448,5 @@ ros에서 python 코드를 테스트하면 일일이 빌드하면서 진행해�
 
 5. **결과 확인하기**
     
-    <img src="../../images/srv_definition04.png" alt="srv definition04" width="400">
+    <img src="../images/srv_definition04.png" alt="srv definition04" width="400">
     
